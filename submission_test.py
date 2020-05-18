@@ -1,0 +1,1 @@
+print("Stay home, stay safe :') ")
